@@ -1,5 +1,7 @@
 # Github Slack Bot
 
+#gargi 
+
 ## What is Github Slack Bot or What does it do ?
 Github Slack Bot grabs open pull request details for an organization's repo into Slack using organization name and github repository name as a parameter. 
 
